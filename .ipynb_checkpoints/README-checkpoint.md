@@ -2,20 +2,20 @@
 ![Image Credit:Dreamstime.com](images/agricultural_futures.jpeg)
 
 ## What environment do we want to work in? 
-    - Jupyter, Google Colab, or AWS SageMaker
+- Jupyter, Google Colab, or AWS SageMaker
     
 ## Determine where we pull our source data
-    - [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
-    - [Nasdaq Data Link (Quandl)](https://data.nasdaq.com/)
-    - Need to look at continuous contracts
-    - All have different expirations
+- [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
+- [Nasdaq Data Link (Quandl)](https://data.nasdaq.com/)
+- Need to look at continuous contracts
+- All have different expirations
     
 ## Load in and clean data: 
-    - HE - lean hogs
-    - ZC - corn
-    - ZM - soybean meal
-    - LE - live cattle
-    - GF - feeder cattle
+- HE - lean hogs
+- ZC - corn
+- ZM - soybean meal
+- LE - live cattle
+- GF - feeder cattle
 
 ### Variables
 - Weather/rainfall
