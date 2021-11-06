@@ -75,3 +75,4 @@
 - [Nasdaq Continuous Futures](https://data.nasdaq.com/databases/SCF/documentation)
 - [RJO Futures - Lean Hog Futures](https://rjofutures.rjobrien.com/futures-markets/agriculturals/lean-hog-futures)
 - [Pairs Trading With Python](https://github.com/KidQuant/Pairs-Trading-With-Python/blob/master/PairsTrading.ipynb)
+- [Machine Learning Mastery](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
