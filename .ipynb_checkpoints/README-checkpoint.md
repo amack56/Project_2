@@ -23,9 +23,13 @@
 - Corn prices rising because of demand abroad for ethanol
 
 ## Project Goals
+- Predict hog prices
+    - Feed is 95% of the cost
+    - There is also land, storage and fertilizer costs
+    - Farmers need to determine quantity of corn to purchase
 - Maximize for profit
-- Farmers are looking to hedge
-- Farmers need to determine quantity of corn to purchase
+- Dashboard hedging tool
+- Show sharpe and sortino ratios 
 
 ## Usage Instructions
 - 
