@@ -27,9 +27,11 @@
     - Feed is 95% of the cost
     - There is also land, storage and fertilizer costs
     - Farmers need to determine quantity of corn to purchase
+    - What are farmers margins?
+    - Livestock disease & outlier analysis
 - Maximize for profit
 - Dashboard hedging tool
-- Show sharpe and sortino ratios 
+- Show Sharpe and Sortino ratios 
 
 ## Usage Instructions
 - 
