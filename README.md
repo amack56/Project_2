@@ -36,9 +36,10 @@
 
 ## Time-Series Analysis
 - Filter out noise
-- Forecast returns using ARMA - output & plot
+- Forecast returns using ARMA with auto-regression - output & plot
 - Forecast settle price using ARIMA - output & plot
 - Forecast volatility using GARCH - output & plot
+- Transformer
 
 ## Classification
 - Split data into train and test
