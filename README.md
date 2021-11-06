@@ -76,3 +76,4 @@
 - [RJO Futures - Lean Hog Futures](https://rjofutures.rjobrien.com/futures-markets/agriculturals/lean-hog-futures)
 - [Pairs Trading With Python](https://github.com/KidQuant/Pairs-Trading-With-Python/blob/master/PairsTrading.ipynb)
 - [Machine Learning Mastery](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+- [How Cost of Carry Works](https://www.investopedia.com/terms/c/costofcarry.asp)
