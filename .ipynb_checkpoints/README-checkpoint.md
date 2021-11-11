@@ -85,3 +85,5 @@
 - [Machine Learning Mastery](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 - [How Cost of Carry Works](https://www.investopedia.com/terms/c/costofcarry.asp)
 - [Supplementary Notebooks](https://nu.bootcampcontent.com/NU-Coding-Bootcamp/nu-chi-fin-pt-07-2021-u-c/-/tree/master/05-Student-Resources/Supplementary_Notebooks)
+- [Hundred Weight (CWT)](https://www.investopedia.com/terms/h/hundredweight.asp)
+- [Understanding the Hog Crush Margin](https://www.iowapork.org/wp-content/uploads/2015/06/Hog-Crush-Margin-IPPA-John-Lawrence.pdf)
