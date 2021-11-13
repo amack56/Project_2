@@ -7,7 +7,7 @@
 - Needed to look at continuous contracts
 - All have different expirations
     
-## Load In and Clean Data
+## Loaded In and Cleaned Data
 - HE - lean hogs
 - ZC - corn
 - ZM - soybean meal
@@ -15,14 +15,16 @@
 - GF - feeder cattle
 
 ## Project Goals
-- Predict hog prices
+- Predicted hog prices
     - Feed is 95% of the cost
     - There is also land, storage and fertilizer costs
     - Farmers need to determine quantity of corn to purchase
     - What are farmers margins?
     - Livestock disease & outlier analysis
-- Maximize for profit
-- Dashboard hedging tool
+- Created a Correlation Matrix
+- Assessed the Value of the Hog Crush
+- Created a Dashboard
+- Sharpe and Sortino Ratios
 
 ## Usage Instructions
 - 
@@ -67,3 +69,7 @@
 - [Supplementary Notebooks](https://nu.bootcampcontent.com/NU-Coding-Bootcamp/nu-chi-fin-pt-07-2021-u-c/-/tree/master/05-Student-Resources/Supplementary_Notebooks)
 - [Hundred Weight (CWT)](https://www.investopedia.com/terms/h/hundredweight.asp)
 - [Understanding the Hog Crush Margin](https://www.iowapork.org/wp-content/uploads/2015/06/Hog-Crush-Margin-IPPA-John-Lawrence.pdf)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.01-simple-line-plots.html)
+- [Towards Data Science](https://towardsdatascience.com/how-to-build-your-first-machine-learning-model-in-python-e70fd1907cdd)
+
+
