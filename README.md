@@ -1,13 +1,10 @@
 # Agricultural Futures
 ![Image Credit:Dreamstime.com](images/agricultural_futures.jpeg)
-
-## What Environment Do We Want To Work In? 
-- Jupyter, Google Colab, or AWS SageMaker
     
-## Determine Our Source Data
+## Determined Our Source Data & Environment
 - [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
 - [Nasdaq Data Link (Quandl)](https://data.nasdaq.com/)
-- Need to look at continuous contracts
+- Needed to look at continuous contracts
 - All have different expirations
     
 ## Load In and Clean Data
@@ -16,11 +13,6 @@
 - ZM - soybean meal
 - LE - live cattle
 - GF - feeder cattle
-
-## Variables
-- Weather/rainfall
-- Oil/natural gas prices
-- Corn prices rising because of demand abroad for ethanol
 
 ## Project Goals
 - Predict hog prices
@@ -31,17 +23,9 @@
     - Livestock disease & outlier analysis
 - Maximize for profit
 - Dashboard hedging tool
-- Show Sharpe and Sortino ratios 
 
 ## Usage Instructions
 - 
-
-## Time-Series Analysis
-- Filter out noise
-- Forecast returns using ARMA with auto-regression - output & plot
-- Forecast settle price using ARIMA - output & plot
-- Forecast volatility using GARCH - output & plot
-- Transformer
 
 ## Classification
 - Split data into train and test
@@ -50,10 +34,6 @@
 - Display confusion matrix and print reports	
 - Train the classifier and calculate the balanced accuracy score
 - Display confusion matrix and print reports
-
-## Sentiment Analysis
-- Research best sources for in-depth industry knowledge - Twitter? 
-- LSTM Stock Predictor 
 
 ## Technical Requirements
 - Create our slideshow presentation
