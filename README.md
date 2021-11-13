@@ -31,11 +31,8 @@
 
 ## Classification
 - Split data into train and test
-- Scale the training and testing data
-- Resample the data with the balanced random forest classifier 
-- Display confusion matrix and print reports	
-- Train the classifier and calculate the balanced accuracy score
-- Display confusion matrix and print reports
+- Used the MinMaxScaler to scale data between 0 and 1
+- Reshaped the features for the model
 
 ## Technical Requirements
 - Create our slideshow presentation
@@ -74,5 +71,5 @@
 - [Investopedia: Cost of Carry](https://www.investopedia.com/terms/c/costofcarry.asp)
 - [An Introduction to Hog Feeding Spreads](https://www.cmegroup.com/trading/agricultural/files/AC-379_HogFeedingWhitePaper_r2.pdf)
 - [Iowa State University - Animal Industry Report](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=2334&context=ans_air)
-- 
+- [Nasdaq - Continuous Futures](https://data.nasdaq.com/databases/SCF/pricing/plans)
 

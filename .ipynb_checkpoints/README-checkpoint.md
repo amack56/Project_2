@@ -71,5 +71,8 @@
 - [Understanding the Hog Crush Margin](https://www.iowapork.org/wp-content/uploads/2015/06/Hog-Crush-Margin-IPPA-John-Lawrence.pdf)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.01-simple-line-plots.html)
 - [Towards Data Science](https://towardsdatascience.com/how-to-build-your-first-machine-learning-model-in-python-e70fd1907cdd)
-
+- [Investopedia: Cost of Carry](https://www.investopedia.com/terms/c/costofcarry.asp)
+- [An Introduction to Hog Feeding Spreads](https://www.cmegroup.com/trading/agricultural/files/AC-379_HogFeedingWhitePaper_r2.pdf)
+- [Iowa State University - Animal Industry Report](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=2334&context=ans_air)
+- [Nasdaq - Continuous Futures](https://data.nasdaq.com/databases/SCF/pricing/plans)
 
