@@ -4,7 +4,7 @@
 ## Determined Our Source Data & Environment
 - [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
 - [Nasdaq Data Link (Quandl)](https://data.nasdaq.com/)
-- Needed to look at continuous contracts
+- Looked at continuous contracts
 - All have different expirations
     
 ## Loaded In and Cleaned Data
@@ -27,12 +27,13 @@
 - Sharpe and Sortino Ratios
 
 ## Usage Instructions
-- 
-
-## Classification
 - Split data into train and test
 - Used the MinMaxScaler to scale data between 0 and 1
 - Reshaped the features for the model
+
+## Future Considerations
+- Add Weather Data as Variable
+- Add Oil Prices as Another Variable
 
 ## Technical Requirements
 - Create our slideshow presentation
