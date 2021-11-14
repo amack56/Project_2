@@ -3,7 +3,7 @@
     
 ## Determined Our Source Data & Environment
 - [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
-- Built in Python Jupyer Lab
+- Built in Python Jupyter Lab
 
 ## Project Goals
 - Predicted hog prices
@@ -27,8 +27,9 @@
 - Applied the MinMaxScaler to the X and y values to scale the data between 0 and 1
 - Reshaped the X_train and X_test data for the model
 
-## Built and Trained the LSTM 
-- Defined the model architecture and compiled the model
+## Built and Trained the LSTM RNN Model
+- Defined the model architecture
+- Compiled the model
 - Fit the model 
 - Ran two different models to exemplify our process
 
@@ -38,11 +39,20 @@
 ## Hog Crush
 - Created a new dataframe utilizing the 8-3-1 formula
     - 8 hog - 3 corn - 1 soymeal
-- 
-
+- Visualized the crush
+- Standardized features by removing the mean and scaling then visualized the data
+- Applied the MinMaxScaler to the X and y values then created a visualization
+- Created a correlation matrix
+- Calculated the R2 Score - coefficient of determination regression score function
+- Established a mean line and then visualized the data
+- Plotted Z-score ratios
+- Created a rolling z-score
 
 ## Dashboard
 - Showcased our visualizations
+
+## Conclusions & Predictions
+- 
 
 ## Future Considerations
 - [Add Weather Data Api](https://www.aerisweather.com/features/aerisweather-api-amp/?gclid=Cj0KCQiAhMOMBhDhARIsAPVml-FcWnMwAw2Grk-DV8uZdGChvu9y8JuCGLRcTzi_motZ7Oa126vKDV4aAnGaEALw_wcB)
@@ -56,11 +66,11 @@
 - Optional, apply a dimensionality reduction technique to reduce the input features, or perform feature engineering to generate new features to train the model
 - Created two machine learning models.
 - Fit the models to the training data.
-- Evaluated the trained model(s) using testing data. Include any calculations, metrics, or visualizations needed to evaluate the performance
-- Showed the trained model(s) using testing data. Include any calculations, metrics, or visualizations needed to evaluate the performance
+- Evaluated the trained models using testing data. Include any calculations, metrics, or visualizations needed to evaluate the performance
+- Showed the trained models using testing data. Include any calculations, metrics, or visualizations needed to evaluate the performance
 - Saved PNG images of your visualizations to distribute to the class and instructional team for inclusion in our presentation and our repo's README.md
 - Used one new machine learning library, machine learning model, or evaluation metric that hasn't been covered in class
-- Created a README.md in your repo with a write-up summarizing your project. B
+- Created a README.md in your repo with a write-up summarizing your project
 
 ### Resources:
 - [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
