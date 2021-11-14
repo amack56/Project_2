@@ -3,10 +3,7 @@
     
 ## Determined Our Source Data & Environment
 - [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
-- [Nasdaq Data Link (Quandl)](https://data.nasdaq.com/)
-- Looked at continuous contracts
-- All have different expirations
-- We built everything in Python Jupyer Lab
+- Built in Python Jupyer Lab
 
 ## Project Goals
 - Predicted hog prices
@@ -14,7 +11,7 @@
     - Farmers need to determine quantity of corn to purchase
     - What are farmers margins?
    
-## Loaded in and Cleaned the Data
+## Loaded In and Cleaned the Data
 - HE - lean hogs
 - ZC - corn
 - ZM - soybean meal
@@ -35,6 +32,9 @@
 - Fit the model 
 - Ran two different models to exemplify our process
 
+## Usage Instructions
+-
+
 ## Hog Crush
 - Created a new dataframe utilizing the 8-3-1 formula
     - 8 hog - 3 corn - 1 soymeal
@@ -46,21 +46,21 @@
 
 ## Future Considerations
 - [Add Weather Data Api](https://www.aerisweather.com/features/aerisweather-api-amp/?gclid=Cj0KCQiAhMOMBhDhARIsAPVml-FcWnMwAw2Grk-DV8uZdGChvu9y8JuCGLRcTzi_motZ7Oa126vKDV4aAnGaEALw_wcB)
-- [Add Oil Prices Api]](https://www.oilpriceapi.com/)
+- [Add Oil Prices Api](https://www.oilpriceapi.com/)
 - [Perform Livestock Disease Analysis](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information)
 - [Factor In Land, Storage and Fertilizer Costs](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_012131.pdf
 
 ## Technical Requirements
-- Create our slideshow presentation in Google Slides
-- Summarize our conclusions and predictions
+- Created our slideshow presentation in Google Slides
+- Summarized our conclusions and predictions
 - Optional, apply a dimensionality reduction technique to reduce the input features, or perform feature engineering to generate new features to train the model
-- Create one or more machine learning models.
-- Fit the model(s) to the training data.
-- Evaluate the trained model(s) using testing data. Include any calculations, metrics, or visualizations needed to evaluate the performance
-- Show the predictions using a sample of new data. Compare the predictions if more than one model is used.
-- Save PNG images of your visualizations to distribute to the class and instructional team for inclusion in our presentation and our repo's README.md
-- Use one new machine learning library, machine learning model, or evaluation metric that hasn't been covered in class
-- Create a README.md in your repo with a write-up summarizing your project. Be sure to include any usage instructions to set up and use the model
+- Created two machine learning models.
+- Fit the models to the training data.
+- Evaluated the trained model(s) using testing data. Include any calculations, metrics, or visualizations needed to evaluate the performance
+- Showed the trained model(s) using testing data. Include any calculations, metrics, or visualizations needed to evaluate the performance
+- Saved PNG images of your visualizations to distribute to the class and instructional team for inclusion in our presentation and our repo's README.md
+- Used one new machine learning library, machine learning model, or evaluation metric that hasn't been covered in class
+- Created a README.md in your repo with a write-up summarizing your project. B
 
 ### Resources:
 - [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
