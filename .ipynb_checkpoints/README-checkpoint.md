@@ -48,7 +48,7 @@
 - [Add Weather Data Api](https://www.aerisweather.com/features/aerisweather-api-amp/?gclid=Cj0KCQiAhMOMBhDhARIsAPVml-FcWnMwAw2Grk-DV8uZdGChvu9y8JuCGLRcTzi_motZ7Oa126vKDV4aAnGaEALw_wcB)
 - [Add Oil Prices Api](https://www.oilpriceapi.com/)
 - [Perform Livestock Disease Analysis](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information)
-- [Factor In Land, Storage and Fertilizer Costs](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_012131.pdf
+- [Factor In Land, Storage and Fertilizer Costs](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_012131.pdf)
 
 ## Technical Requirements
 - Created our slideshow presentation in Google Slides
