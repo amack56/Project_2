@@ -15,11 +15,11 @@
     - What are farmers margins?
    
 ## Loaded in and Cleaned the Data
-    - HE - lean hogs
-    - ZC - corn
-    - ZM - soybean meal
-    - LE - live cattle
-    - GF - feeder cattle
+- HE - lean hogs
+- ZC - corn
+- ZM - soybean meal
+- LE - live cattle
+- GF - feeder cattle
 - Joined the data into a single dataframe
 
 ## Data Preparation
@@ -44,11 +44,11 @@
 ## Dashboard
 - Showcased our visualizations
 
-## Future Considerations / Additional Variables
-- [Weather Data Api](https://www.aerisweather.com/features/aerisweather-api-amp/?gclid=Cj0KCQiAhMOMBhDhARIsAPVml-FcWnMwAw2Grk-DV8uZdGChvu9y8JuCGLRcTzi_motZ7Oa126vKDV4aAnGaEALw_wcB)
-- [Oil Prices](https://www.oilpriceapi.com/)
-- [Livestock Disease Analysis](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information)
-- [Land, Storage and Fertilizer](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_012131.pdf) 
+## Future Considerations
+- [Add Weather Data Api](https://www.aerisweather.com/features/aerisweather-api-amp/?gclid=Cj0KCQiAhMOMBhDhARIsAPVml-FcWnMwAw2Grk-DV8uZdGChvu9y8JuCGLRcTzi_motZ7Oa126vKDV4aAnGaEALw_wcB)
+- [Add Oil Prices Api]](https://www.oilpriceapi.com/)
+- [Perform Livestock Disease Analysis](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information)
+- [Factor In Land, Storage and Fertilizer Costs](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_012131.pdf
 
 ## Technical Requirements
 - Create our slideshow presentation in Google Slides
