@@ -6,38 +6,52 @@
 - [Nasdaq Data Link (Quandl)](https://data.nasdaq.com/)
 - Looked at continuous contracts
 - All have different expirations
-    
-## Loaded In and Cleaned Data
-- HE - lean hogs
-- ZC - corn
-- ZM - soybean meal
-- LE - live cattle
-- GF - feeder cattle
+- We built everything in Python Jupyer Lab
 
 ## Project Goals
 - Predicted hog prices
     - Feed is 95% of the cost
-    - There is also land, storage and fertilizer costs
     - Farmers need to determine quantity of corn to purchase
     - What are farmers margins?
-    - Livestock disease & outlier analysis
-- Created a Correlation Matrix
-- Assessed the Value of the Hog Crush
-- Created a Dashboard
-- Sharpe and Sortino Ratios
+   
+## Loaded in and Cleaned the Data
+    - HE - lean hogs
+    - ZC - corn
+    - ZM - soybean meal
+    - LE - live cattle
+    - GF - feeder cattle
+- Joined the data into a single dataframe
 
-## Usage Instructions
-- Split data into train and test
-- Used the MinMaxScaler to scale data between 0 and 1
-- Reshaped the features for the model
+## Data Preparation
+- Created a correlation matrix
+- Used the window_data function to generate the X and y values for the model
+- Experimented with window sizes to see how the model performance changed
+- Split the data into 70% training and 30% testing
+- Applied the MinMaxScaler to the X and y values to scale the data between 0 and 1
+- Reshaped the X_train and X_test data for the model
 
-## Future Considerations
-- Add Weather Data as Variable
-- Add Oil Prices as Another Variable
+## Built and Trained the LSTM 
+- Defined the model architecture and compiled the model
+- Fit the model 
+- Ran two different models to exemplify our process
+
+## Hog Crush
+- Created a new dataframe utilizing the 8-3-1 formula
+    - 8 hog - 3 corn - 1 soymeal
+- 
+
+
+## Dashboard
+- Showcased our visualizations
+
+## Future Considerations / Additional Variables
+- [Weather Data Api](https://www.aerisweather.com/features/aerisweather-api-amp/?gclid=Cj0KCQiAhMOMBhDhARIsAPVml-FcWnMwAw2Grk-DV8uZdGChvu9y8JuCGLRcTzi_motZ7Oa126vKDV4aAnGaEALw_wcB)
+- [Oil Prices](https://www.oilpriceapi.com/)
+- [Livestock Disease Analysis](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information)
+- [Land, Storage and Fertilizer](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_012131.pdf) 
 
 ## Technical Requirements
-- Create our slideshow presentation
-    - PowerPoint, Keynote or Google Slides
+- Create our slideshow presentation in Google Slides
 - Summarize our conclusions and predictions
 - Optional, apply a dimensionality reduction technique to reduce the input features, or perform feature engineering to generate new features to train the model
 - Create one or more machine learning models.
