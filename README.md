@@ -58,6 +58,10 @@
 
 ![Hog Crush](./images/Lean_Hog_Crush.png)
 
+![Standard Scaler](./images/Standard_Scaler.png)
+
+
+
 ## Conclusions & Predictions
 - 
 
