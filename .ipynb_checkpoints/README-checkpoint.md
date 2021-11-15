@@ -60,6 +60,14 @@
 
 ![Standard Scaler](./images/Standard_Scaler.png)
 
+![MinMax Scaler](./images/MinMax_Scaler.png)
+
+![Hog Crush Heat Map](./images/Heat_Map_Hog_Crush.png)
+
+![Adjusted Totals](./images/Adjusted_Totals.png)
+
+![Mean Line](./images/Mean_Line.png)
+
 
 
 ## Conclusions & Predictions
