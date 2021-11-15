@@ -78,7 +78,7 @@
 
 ![Buy Sell Signal](./images/Buy_Sell_Hog_Corn_Soybean.png)
 
-![Equity Curve](./images/Equity_Curve)
+![Equity Curve](./images/Equity_Curve.png)
 
 ## Conclusions & Predictions
 - 
