@@ -68,7 +68,17 @@
 
 ![Mean Line](./images/Mean_Line.png)
 
+![Z-Scores](./images/Z-scores.png)
 
+![Featured Engineering](./images/Feature_Engineering.png)
+
+![Rolling Ratio Z-Score](./images/Rolling_Ratio_Z_Score.png)
+
+![Feature Train Z Score](./images/Feature_Train_Z_Score.png)
+
+![Buy Sell Signal](./images/Buy_Sell_Hog_Corn_Soybean.png)
+
+![Equity Curve](./images/Equity_Curve)
 
 ## Conclusions & Predictions
 - 
