@@ -3,7 +3,7 @@
     
 ## Determined Our Source Data & Environment
 - [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
-- Built in Jupyter Lab
+- Built the project in Jupyter Lab
 
 ## Project Goals
 - Predict hog prices
@@ -55,7 +55,8 @@
 - Run the trading similuation and visualize the equity curve
 
 ## Dashboard
-- Showcased our visualizations
+
+![Hog Crush](./images/Lean_Hog_Crush.png)
 
 ## Conclusions & Predictions
 - 
