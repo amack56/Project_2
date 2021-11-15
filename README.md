@@ -3,10 +3,10 @@
     
 ## Determined Our Source Data & Environment
 - [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
-- Built in Python Jupyter Lab
+- Built in Jupyter Lab
 
 ## Project Goals
-- Predicted hog prices
+- Predict hog prices
     - Feed is 95% of the cost
     - Farmers need to determine quantity of corn to purchase
     - What are farmers margins?
@@ -40,13 +40,19 @@
 - Created a new dataframe utilizing the 8-3-1 formula
     - 8 hog - 3 corn - 1 soymeal
 - Visualized the crush
+- Confirmed the hog crush ratio through historical OLS
 - Standardized features by removing the mean and scaling then visualized the data
 - Applied the MinMaxScaler to the X and y values then created a visualization
 - Created a correlation matrix
 - Calculated the R2 Score - coefficient of determination regression score function
 - Established a mean line and then visualized the data
 - Plotted Z-score ratios
+- Used feature engineering to enhance the model
 - Created a rolling z-score
+- Trained the data for the buy/sell signal and visualized the data
+- Developed a hog and corn plus soybean meal buy/sell and plotted the data
+- Built a trading strategy utilizing rolling mean and rolling standard deviation
+- Run the trading similuation and visualize the equity curve
 
 ## Dashboard
 - Showcased our visualizations
