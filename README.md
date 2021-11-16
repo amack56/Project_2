@@ -81,6 +81,12 @@
 
 ![Equity Curve](./images/Equity_Curve.png)
 
+![Single LSTM](./images/single_lstm.png)
+
+![Multivariable LSTM](./images/multii_lstm.png)
+
+![LSTM Heat Map](./images/Heat_map_multivariable.png)
+
 ## Conclusions & Predictions
 - 
 
