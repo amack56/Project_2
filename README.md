@@ -4,6 +4,7 @@
 ## Determined Our Source Data & Environment
 - [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
 - Built the project in Jupyter Lab
+- [Google Slides presentation](https://docs.google.com/presentation/d/1IZplJYO0P4w_COjAJ48CUtNfo1ynZ99CkwT8p8GHzmg/edit#slide=id.g1010de278b3_0_10)
 
 ## Project Goals
 - Predict hog prices
