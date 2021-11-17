@@ -4,6 +4,7 @@
 ## Determined Our Source Data & Environment
 - [CME DataMine](https://www.cmegroup.com/market-data/datamine-historical-data.html#)
 - Built the project in Jupyter Lab
+- [Google Slides presentation](https://docs.google.com/presentation/d/1IZplJYO0P4w_COjAJ48CUtNfo1ynZ99CkwT8p8GHzmg/edit#slide=id.p)
 
 ## Project Goals
 - Predict hog prices
@@ -79,6 +80,12 @@
 ![Buy Sell Signal](./images/Buy_Sell_Hog_Corn_Soybean.png)
 
 ![Equity Curve](./images/Equity_Curve.png)
+
+![Single LSTM](./images/single_lstm.png)
+
+![Multivariable LSTM](./images/multii_lstm.png)
+
+![LSTM Heat Map](./images/Heat_map_multivariable.png)
 
 ## Conclusions & Predictions
 - 
