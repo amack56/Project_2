@@ -61,9 +61,9 @@
 
 ## Dashboard
 
-![LSTM Heat Map](./images/Heat_map_multivariable.png)
-
 ![Single LSTM](./images/single_lstm.png)
+
+![LSTM Heat Map](./images/Heat_map_multivariable.png)
 
 ![Multivariable LSTM](./images/multii_lstm.png)
 
