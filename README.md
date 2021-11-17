@@ -34,9 +34,6 @@
 - Fit the model 
 - Ran two different models to exemplify our process
 
-## Usage Instructions
--
-
 ## Hog Crush
 - Created a new dataframe utilizing the 8-3-1 formula
     - 8 hog - 3 corn - 1 soymeal
@@ -88,7 +85,12 @@
 ![LSTM Heat Map](./images/Heat_map_multivariable.png)
 
 ## Conclusions & Predictions
-- 
+- We need to add more data to the model to train.
+- We would need more time or an extremely powerful machine for us to play around with an LSTM model and move inputs and variables around.
+- Consider risk-adjusted metrics to better ascertain algo robustness
+- Optimize MA variables and z-score entry levels
+- Calculate and implement cost of trading (commissions, slippage, etc.)
+- Assess seasonality and remove outlier data like (PED in 2014, COVID, etc.)
 
 ## Future Considerations
 - [Add Weather Data Api](https://www.aerisweather.com/features/aerisweather-api-amp/?gclid=Cj0KCQiAhMOMBhDhARIsAPVml-FcWnMwAw2Grk-DV8uZdGChvu9y8JuCGLRcTzi_motZ7Oa126vKDV4aAnGaEALw_wcB)
